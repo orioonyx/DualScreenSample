@@ -8,13 +8,10 @@ It can show two panes side-by-side (if there's room), otherwise only the first p
 
 # Preview ✨
 #### Foldable Device
-<img src="https://user-images.githubusercontent.com/74607521/209705564-6be23abc-8434-4cc7-bcf9-b1643dda608a.jpg" width="40%"/>
-<br>
-<img src="https://user-images.githubusercontent.com/74607521/209705578-744877e7-a7b1-4d1b-b96a-86a652f21e20.jpg" width="70%"/>
+<img src="https://user-images.githubusercontent.com/74607521/209708173-94f492af-06a9-48d7-b385-eb33edf7770a.png" width="100%"/>
 
 #### Single Screen Device
-<img src="https://user-images.githubusercontent.com/74607521/209705581-9554b3fb-ebc5-4dad-a4ea-8c2a995b0598.png" width="40%"/>
-<img src="https://user-images.githubusercontent.com/74607521/209705583-bd693369-09c5-4e22-9d56-7dc035640b11.png" width="40%"/>
+<img src="https://user-images.githubusercontent.com/74607521/209708162-f3753621-15dc-49e7-bfc1-2789eece6521.png" width="100%"/>
 
 Developed By
 ------------------------------------
