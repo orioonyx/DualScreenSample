@@ -10,6 +10,7 @@ It can show two panes side-by-side (if there's room), otherwise only the first p
 #### Foldable Device
 <img src="https://user-images.githubusercontent.com/74607521/209708173-94f492af-06a9-48d7-b385-eb33edf7770a.png" width="100%"/>
 <br>
+
 #### Single Screen Device
 <img src="https://user-images.githubusercontent.com/74607521/209708162-f3753621-15dc-49e7-bfc1-2789eece6521.png" width="100%"/>
 
