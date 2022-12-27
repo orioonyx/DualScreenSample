@@ -1,12 +1,11 @@
 # Android Dual-Screen Sample
-<br>
 
 A simple demo project based on [SlidingPaneLayout](https://developer.android.com/jetpack/androidx/releases/slidingpanelayout).
 
 SlidingPaneLayout is a control that uses [Jetpack Window Manager](https://developer.android.com/jetpack/androidx/releases/window) to adapt to dual-screen and foldable devices.
 
 It can show two panes side-by-side (if there's room), otherwise only the first pane will be shown and the second can be revealed by the user (sliding from the side) or programmatically. It adapts to foldable and dual-screen devices by aligning the panes on either side of the hinge or fold.
-<br>
+<br><br>
 
 # Preview ✨
 #### Foldable Device
