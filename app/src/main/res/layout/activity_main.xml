@@ -3,7 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/constraint_layout"
     tools:context=".ui.main.MainActivity">
 
     <androidx.slidingpanelayout.widget.SlidingPaneLayout
@@ -24,8 +23,7 @@
             android:name="com.kyungeun.dualscreensample.ui.postdetail.PostDetailFragment"
             android:layout_width="300dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:layout_gravity="right"
-            tools:ignore="RtlHardcoded" />
+            android:layout_weight="1" />
+
     </androidx.slidingpanelayout.widget.SlidingPaneLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

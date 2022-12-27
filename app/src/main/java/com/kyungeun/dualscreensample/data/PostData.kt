@@ -1,9 +1,9 @@
 package com.kyungeun.dualscreensample.data
 
-import com.bumptech.glide.load.engine.Resource
 import com.kyungeun.dualscreensample.R
 import com.kyungeun.dualscreensample.model.Post
 
+// Data for Demo Test
 object PostData {
     fun getData(): ArrayList<Post> {
         return arrayListOf(
