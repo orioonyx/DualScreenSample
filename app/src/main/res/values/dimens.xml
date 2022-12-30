@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_size">16sp</dimen>
+    <dimen name="text_view_size_small">12sp</dimen>
+    <dimen name="text_view_size_large">20sp</dimen>
+    <dimen name="text_view_size_xlarge">24sp</dimen>
+
+    <dimen name="list_fragment_view_width">280dp</dimen>
+    <dimen name="detail_fragment_view_width">300dp</dimen>
+    <dimen name="post_recycler_view_padding">8dp</dimen>
+    <dimen name="recycler_view_item_padding">8dp</dimen>
+    <dimen name="recycler_view_item_margin">8dp</dimen>
+    <dimen name="recycler_view_item_image_size">100dp</dimen>
+    <dimen name="post_detail_view_padding">15dp</dimen>
+</resources>
