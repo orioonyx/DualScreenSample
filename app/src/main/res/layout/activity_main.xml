@@ -9,7 +9,7 @@
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragment_list"
         android:name="com.kyungeun.dualscreensample.ui.posts.PostsFragment"
-        android:layout_width="280dp"
+        android:layout_width="@dimen/list_fragment_view_width"
         android:layout_height="match_parent"
         android:layout_gravity="left"
         tools:ignore="RtlHardcoded" />
@@ -17,7 +17,7 @@
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragment_detail"
         android:name="com.kyungeun.dualscreensample.ui.postdetail.PostDetailFragment"
-        android:layout_width="300dp"
+        android:layout_width="@dimen/detail_fragment_view_width"
         android:layout_weight="1"
         android:layout_height="match_parent" />
 
